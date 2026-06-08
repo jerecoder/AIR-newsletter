@@ -1,0 +1,73 @@
+{
+  "week": "2026-W24",
+  "collectedAt": "2026-06-08T16:33:02.151Z",
+  "windowStart": "2026-06-08T00:00:00.000Z",
+  "windowEnd": "2026-06-15T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Wall-Climbing Robot Challenge 2026",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge propone diseñar robots capaces de trepar muros, una consigna muy concreta para trabajar adhesión, tracción, control y percepción en superficies verticales. La inscripción cierra el 15 de junio de 2026.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/hero/hero-bg.jpg",
+      "publishedAt": "2026-06-08T16:33:02.201Z",
+      "score": 82,
+      "selectionReason": "noticia de competencia, fecha o inscripción accionable, idea técnica construible"
+    },
+    {
+      "title": "RoboCup 2026",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026 reúne ligas de fútbol, rescate, robótica doméstica e industrial. Más que una sola competencia, funciona como un mapa de categorías posibles para pensar pruebas universitarias con distintos niveles de dificultad.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-06-08T16:33:02.201Z",
+      "score": 50,
+      "selectionReason": "noticia de competencia, fuente de competencia"
+    },
+    {
+      "title": "2026 UNSW STEM, Robotics & Coding Challenge",
+      "url": "https://roboticscodingchallenge.org/current/",
+      "summary": "La edición 2026 de la UNSW STEM, Robotics & Coding Challenge plantea una misión de rescate tras el colapso de una ruta. Es un buen caso para estudiar cómo convertir un problema abierto en reglas, restricciones técnicas y entregables evaluables.",
+      "source": "UNSW Robotics & Coding Challenge 2026",
+      "category": "competition",
+      "publishedAt": "2026-06-08T16:33:02.201Z",
+      "score": 50,
+      "selectionReason": "noticia de competencia, fuente de competencia"
+    },
+    {
+      "title": "Congratulations to the #AAMAS2026 best paper award winners",
+      "url": "https://robohub.org/congratulations-to-the-aamas2026-best-paper-award-winners/",
+      "summary": "La nota presenta una línea de investigación robótica con posible aplicación en proyectos estudiantiles. Vale leerla buscando qué técnica se podría simplificar, simular o convertir en una prueba concreta para el club.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-06-08T10:02:11.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2025/05/winner-1548239_1280-1024x682.jpg",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "Context & Hardware Setup",
+      "url": "https://discourse.openrobotics.org/t/context-hardware-setup/55356",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-06-08T16:26:45.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/e/2/e2580bc2d1e3398c20399c8735572f973453b1a4.png",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    },
+    {
+      "title": "Robotic arm inspired by octopus uses tactile sensors in suction cups for autonomous underwater grasping",
+      "url": "https://techxplore.com/news/2026-06-robotic-arm-octopus-tactile-sensors.html",
+      "summary": "La nota presenta una línea de investigación robótica con posible aplicación en proyectos estudiantiles. Vale leerla buscando qué técnica se podría simplificar, simular o convertir en una prueba concreta para el club.",
+      "source": "Tech Xplore Robotics",
+      "category": "research",
+      "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-the-ocean-the-rob.jpg",
+      "publishedAt": "2026-06-08T16:20:08.000Z",
+      "score": 22,
+      "selectionReason": "idea técnica construible"
+    }
+  ]
+}
