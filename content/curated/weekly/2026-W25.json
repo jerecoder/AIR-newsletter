@@ -1,0 +1,73 @@
+{
+  "week": "2026-W25",
+  "collectedAt": "2026-06-15T17:28:54.201Z",
+  "windowStart": "2026-06-15T00:00:00.000Z",
+  "windowEnd": "2026-06-22T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Desafío de Robots Trepamuros 2026: ¡Inscripciones Abiertas!",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge propone diseñar robots capaces de trepar muros, una consigna ideal para que los equipos de AIR trabajen adhesión, tracción, control y percepción en superficies verticales. La inscripción cierra el 15 de junio de 2026.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/hero/hero-bg.jpg",
+      "publishedAt": "2026-06-15T17:28:54.251Z",
+      "score": 82,
+      "selectionReason": "Oportunidad de competencia relevante y con fecha límite clara, ideal para aplicar conocimientos prácticos."
+    },
+    {
+      "title": "RoboCup 2026: Un Catálogo de Ideas para Futuras Competencias Universitarias",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026 reúne ligas de fútbol, rescate, robótica doméstica e industrial. Los equipos de AIR pueden estudiar sus distintas categorías y niveles de dificultad para inspirarse en la creación de pruebas para futuras competencias universitarias.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-06-15T17:28:54.251Z",
+      "score": 50,
+      "selectionReason": "Fuente de inspiración para organizar competencias locales, alineado con el objetivo del club."
+    },
+    {
+      "title": "Desafío de Robótica UNSW 2026: Cómo Diseñar una Competencia de Rescate",
+      "url": "https://roboticscodingchallenge.org/current/",
+      "summary": "La edición 2026 de la UNSW STEM, Robotics & Coding Challenge propone una misión de rescate tras el colapso de una ruta. Este caso sirve para que los organizadores de AIR estudien cómo convertir un problema abierto en reglas claras, restricciones técnicas y entregables evaluables para futuras competencias.",
+      "source": "UNSW Robotics & Coding Challenge 2026",
+      "category": "competition",
+      "publishedAt": "2026-06-15T17:28:54.251Z",
+      "score": 50,
+      "selectionReason": "Ofrece un modelo práctico para diseñar competencias de robótica, útil para el club."
+    },
+    {
+      "title": "Conejo Robótico Aprende Voces al Instante para Cuidado Personalizado",
+      "url": "https://techxplore.com/news/2026-06-robotic-rabbit-users-voices-enabling.html",
+      "summary": "La nota presenta una línea de investigación robótica con posible aplicación en proyectos estudiantiles. Vale leerla buscando qué técnica se podría simplificar, simular o convertir en una prueba concreta para el club.",
+      "source": "Tech Xplore Robotics",
+      "category": "research",
+      "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/robotic-pet-rabbit-rec.jpg",
+      "publishedAt": "2026-06-15T14:20:04.000Z",
+      "score": 36,
+      "selectionReason": "Noticia de investigación práctica en robótica social y reconocimiento de voz, útil para inspirar proyectos de grado."
+    },
+    {
+      "title": "Materia Robótica Entrelazada: Robots que Fluyen y se Adaptan",
+      "url": "https://robohub.org/entangled-robotic-matter-with-cohesive-motion/",
+      "summary": "La nota presenta una línea de investigación robótica con posible aplicación en proyectos estudiantiles. Vale leerla buscando qué técnica se podría simplificar, simular o convertir en una prueba concreta para el club.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-06-15T10:06:23.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-10.38.29-1024x766.jpeg",
+      "score": 22,
+      "selectionReason": "Investigación práctica en robótica modular y de enjambre, con implicaciones para control descentralizado y adaptación."
+    },
+    {
+      "title": "QERRA-v2: Evaluación Ética y de Seguridad para Behavior Trees",
+      "url": "https://discourse.openrobotics.org/t/qerra-v2-classical-deterministic-ethical-physical-safety-evaluation-for-behavior-trees-no-ros2-build-required/55483",
+      "summary": "La discusión plantea cómo explicar decisiones de robots autónomos en ROS 2: por qué un robot cambia de ruta, frena o aborta una misión. Es material útil para pensar logs, seguridad y depuración en proyectos del club.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://emoji.discourse-cdn.com/noto/slightly_smiling_face.png?v=15",
+      "publishedAt": "2026-06-15T07:30:11.000Z",
+      "score": 22,
+      "selectionReason": "Herramienta práctica y open-source para la evaluación ética y de seguridad en robótica, relevante para el desarrollo de sistemas de control."
+    }
+  ]
+}
