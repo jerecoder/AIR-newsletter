@@ -1,0 +1,73 @@
+{
+  "week": "2026-W26",
+  "collectedAt": "2026-06-22T17:14:23.361Z",
+  "windowStart": "2026-06-22T00:00:00.000Z",
+  "windowEnd": "2026-06-29T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Desafío de Robots Trepamuros 2026: ¡Inscribite para diseñar tu propio robot escalador!",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge propone diseñar robots capaces de trepar muros. Esta competencia es una excelente oportunidad para que los equipos de AIR trabajen en adhesión, tracción, control y percepción en superficies verticales. La inscripción cierra el 2 de julio de 2026.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/hero/hero-bg.jpg",
+      "publishedAt": "2026-06-22T17:14:23.410Z",
+      "score": 82,
+      "selectionReason": "Oportunidad de competencia concreta y relevante para el desarrollo de habilidades técnicas en el club, con fecha límite clara."
+    },
+    {
+      "title": "RoboCup 2026: Un mapa de ideas para futuras competencias universitarias",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026 reúne ligas de fútbol, rescate, robótica doméstica e industrial. Más que una competencia individual, sirve como un excelente mapa de categorías y desafíos posibles para que AIR piense y organice pruebas universitarias con distintos niveles de dificultad.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-06-22T17:14:23.410Z",
+      "score": 50,
+      "selectionReason": "Ofrece un panorama amplio de competencias de robótica, útil para inspirar y estructurar las propias competencias del club."
+    },
+    {
+      "title": "Desafío de Robótica UNSW 2026: Cómo convertir un problema real en reglas de competencia",
+      "url": "https://roboticscodingchallenge.org/current/",
+      "summary": "La edición 2026 de la UNSW STEM, Robotics & Coding Challenge plantea una misión de rescate tras el colapso de una ruta. Este caso es ideal para que los miembros de AIR estudien cómo transformar un problema abierto en reglas claras, restricciones técnicas y entregables evaluables para futuras competencias.",
+      "source": "UNSW Robotics & Coding Challenge 2026",
+      "category": "competition",
+      "publishedAt": "2026-06-22T17:14:23.410Z",
+      "score": 50,
+      "selectionReason": "Proporciona un ejemplo práctico de cómo diseñar una competencia de robótica, fundamental para el objetivo del club de organizar eventos."
+    },
+    {
+      "title": "Manipulación diestra: el desafío clave para robots humanoides útiles",
+      "url": "https://roboticsandautomationnews.com/2026/06/22/interview-with-sharpas-alicia-veneziani-dexterous-manipulation-is-the-key-to-useful-humanoid-robots/102683/",
+      "summary": "La noticia aporta contexto de robótica aplicada para discusiones técnicas del club. Conviene leerla buscando ideas trasladables a prototipos, reglas de competencia o demostraciones para estudiantes.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-06-22T08:47:00.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/06/sharpa-humanoid-1.png",
+      "score": 46,
+      "selectionReason": "Noticia de investigación práctica sobre un desafío fundamental en robótica (manipulación), relevante para proyectos de grado."
+    },
+    {
+      "title": "sw2robot: Exportá tus diseños de SolidWorks a URDF para ROS de forma sencilla",
+      "url": "https://discourse.openrobotics.org/t/sw2robot-a-solidworks-urdf-exporter-with-a-browser-based-editor-free-windows-exe/55616",
+      "summary": "Se lanzó sw2robot, una herramienta de código abierto que convierte ensamblajes de SolidWorks a archivos URDF listos para usar en ROS, e incluye un editor basado en navegador. Esto simplifica enormemente el proceso de llevar diseños CAD a simulaciones y proyectos de robótica, una herramienta muy útil para los equipos de AIR.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://emoji.discourse-cdn.com/noto/file_cabinet.png?v=15",
+      "publishedAt": "2026-06-22T15:16:00.000Z",
+      "score": 22,
+      "selectionReason": "Herramienta práctica y de código abierto que facilita la integración de diseños CAD con ROS, muy útil para proyectos de estudiantes."
+    },
+    {
+      "title": "Sensores táctiles: la clave para una percepción robótica más avanzada",
+      "url": "https://roboticsandautomationnews.com/2026/06/22/interview-with-digids-nils-konne-and-christian-kreil-nanoscale-sensors-could-help-solve-robotics-tactile-sensing-challenge/102702/",
+      "summary": "La noticia aporta contexto de robótica aplicada para discusiones técnicas del club. Conviene leerla buscando ideas trasladables a prototipos, reglas de competencia o demostraciones para estudiantes.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-06-22T11:30:15.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/06/digid-needle.png",
+      "score": 34,
+      "selectionReason": "Investigación práctica sobre un componente fundamental de la percepción robótica (sensores táctiles), relevante para proyectos de autonomía y manipulación."
+    }
+  ]
+}
