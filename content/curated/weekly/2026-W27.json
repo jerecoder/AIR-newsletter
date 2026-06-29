@@ -1,0 +1,73 @@
+{
+  "week": "2026-W27",
+  "collectedAt": "2026-06-29T16:15:11.864Z",
+  "windowStart": "2026-06-29T00:00:00.000Z",
+  "windowEnd": "2026-07-06T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Desafío de Robots Trepamuros 2026: ¡Inscribite!",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge propone diseñar robots capaces de trepar muros. Es una oportunidad para trabajar adhesión, tracción, control y percepción en superficies verticales. La inscripción cierra el 2 de julio de 2026.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/hero/hero-bg.jpg",
+      "publishedAt": "2026-06-29T16:15:11.931Z",
+      "score": 82,
+      "selectionReason": "Oportunidad de competencia vigente con fecha límite clara, relevante para el club y con potencial para inspirar proyectos."
+    },
+    {
+      "title": "RoboCup 2026: Un mapa de ideas para competencias universitarias",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026 reúne ligas de fútbol, rescate, robótica doméstica e industrial. Este evento funciona como un mapa de categorías posibles para que el club piense pruebas universitarias con distintos niveles de dificultad.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-06-29T16:15:11.931Z",
+      "score": 50,
+      "selectionReason": "Fuente de inspiración para organizar competencias locales, alineado con el objetivo del club."
+    },
+    {
+      "title": "UNSW Robotics Challenge 2026: Cómo diseñar una competencia de rescate",
+      "url": "https://roboticscodingchallenge.org/current/",
+      "summary": "La UNSW STEM, Robotics & Coding Challenge 2026 propone una misión de rescate tras el colapso de una ruta. Es un caso para estudiar cómo convertir un problema abierto en reglas, restricciones técnicas y entregables evaluables para futuras competencias del club.",
+      "source": "UNSW Robotics & Coding Challenge 2026",
+      "category": "competition",
+      "publishedAt": "2026-06-29T16:15:11.931Z",
+      "score": 50,
+      "selectionReason": "Ofrece un modelo concreto para diseñar competencias, muy útil para el club."
+    },
+    {
+      "title": "Interfaz estándar para conectar LLMs con robots ROS/2",
+      "url": "https://discourse.openrobotics.org/t/a-standard-interface-from-llm-to-robot-actions/55894",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://emoji.discourse-cdn.com/noto/white_check_mark.png?v=15",
+      "publishedAt": "2026-06-29T14:28:10.000Z",
+      "score": 42,
+      "selectionReason": "Investigación práctica sobre la integración de LLMs con ROS/2, relevante para proyectos avanzados del club."
+    },
+    {
+      "title": "La navegación con IA revoluciona los robots limpiafondos",
+      "url": "https://roboticsandautomationnews.com/2026/06/29/how-ai-navigation-is-improving-the-performance-of-robotic-pool-cleaners/102911/",
+      "summary": "La noticia aporta contexto de robótica aplicada para discusiones técnicas del club. Conviene leerla buscando ideas trasladables a prototipos, reglas de competencia o demostraciones para estudiantes.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-06-29T15:07:07.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/06/beatbot-robotic-pool-cleaner-1.jpeg",
+      "score": 22,
+      "selectionReason": "Noticia de aplicación práctica de IA en navegación, relevante para autonomía y percepción en robótica móvil."
+    },
+    {
+      "title": "Nuevo enfoque de aprendizaje por refuerzo para manipulación robótica",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/06/29/humanoid-announces-its-kinetiq-ascend-reinforcement-learning-approach/26785",
+      "summary": "Humanoid presentó KinetIQ Ascend, un sistema de aprendizaje por refuerzo probado en tareas como recoger piezas, entregar objetos y mover contenedores. Este enfoque demuestra cómo el RL puede mejorar la manipulación robótica en escenarios complejos.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-06-29T14:58:28.000Z",
+      "imageUrl": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+      "score": 22,
+      "selectionReason": "Investigación práctica en aprendizaje por refuerzo para manipulación, área clave para el desarrollo de robots avanzados."
+    }
+  ]
+}
