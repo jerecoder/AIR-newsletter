@@ -1,0 +1,72 @@
+{
+  "week": "2026-W29",
+  "collectedAt": "2026-07-13T15:17:42.750Z",
+  "windowStart": "2026-07-13T00:00:00.000Z",
+  "windowEnd": "2026-07-20T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Desafío de Robots Trepamuros 2027: ¿Listos para escalar?",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge propone diseñar robots capaces de trepar muros. Es una consigna concreta para que los equipos de AIR trabajen adhesión, tracción, control y percepción en superficies verticales, y una excelente idea para una competencia local.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "publishedAt": "2026-07-13T15:17:42.789Z",
+      "score": 95,
+      "selectionReason": "Oportunidad futura y excelente inspiración para una competencia local, aborda desafíos técnicos claros."
+    },
+    {
+      "title": "RoboCup 2026: Un mapa de desafíos robóticos para universidades",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026 reúne ligas de fútbol, rescate, robótica doméstica e industrial. Más que una competencia, es un catálogo de categorías posibles para que AIR piense pruebas universitarias con distintos niveles de dificultad y prepare equipos.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-07-13T15:17:42.789Z",
+      "score": 90,
+      "selectionReason": "Oportunidad futura, sirve como referencia y fuente de ideas para organizar competencias universitarias."
+    },
+    {
+      "title": "Desafío UNSW 2026: Misión de rescate y diseño de competencias",
+      "url": "https://roboticscodingchallenge.org/current/",
+      "summary": "La edición 2026 del UNSW STEM, Robotics & Coding Challenge plantea una misión de rescate tras el colapso de una ruta. Es un buen caso para que los miembros de AIR estudien cómo convertir un problema abierto en reglas, restricciones técnicas y entregables evaluables para futuras competencias.",
+      "source": "UNSW Robotics & Coding Challenge 2026",
+      "category": "competition",
+      "publishedAt": "2026-07-13T15:17:42.789Z",
+      "score": 90,
+      "selectionReason": "Oportunidad futura, ofrece un caso de estudio directo para el diseño de competencias, objetivo clave del club."
+    },
+    {
+      "title": "Navegación y Mapeo Sencillo con Cyclo Intelligence UI",
+      "url": "https://discourse.openrobotics.org/t/easy-mapping-navigation-with-cyclo-intelligence-ui/56532",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://emoji.discourse-cdn.com/noto/robot.png?v=15",
+      "publishedAt": "2026-07-13T11:55:07.000Z",
+      "score": 80,
+      "selectionReason": "Herramienta práctica para el desarrollo de proyectos de autonomía y navegación, relevante para ROS."
+    },
+    {
+      "title": "Control de Manos Robóticas con Pulsera: Interacción Intuitiva",
+      "url": "https://robohub.org/wristband-enables-wearers-to-control-a-robotic-hand-with-their-own-movements/",
+      "summary": "Investigadores desarrollaron una pulsera que permite controlar una mano robótica con movimientos naturales de la mano y los dedos del usuario. Esto abre posibilidades para proyectos de manipulación remota o teleoperación en el club.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-07-13T08:27:45.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/03/MIT-Hand-Tracker-01-press_0.jpg",
+      "score": 80,
+      "selectionReason": "Investigación práctica en manipulación y HRI, puede inspirar proyectos de control robótico."
+    },
+    {
+      "title": "OpenAMRobot v0.0.1: Plataforma Robótica Móvil de Código Abierto con ROS 2",
+      "url": "https://discourse.openrobotics.org/t/openamrobot-v0-0-1-open-source-ros-2-mobile-robot-platform/56515",
+      "summary": "Se lanzó OpenAMRobot v0.0.1, una plataforma robótica móvil de código abierto basada en ROS 2. Es una base sólida para que los equipos del club desarrollen y prueben sus propios proyectos de robótica móvil, facilitando el aprendizaje y la experimentación.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/4/3/432f9f095c4472765b77d7f654361c60d8b0a23c_2_690x460.jpeg",
+      "publishedAt": "2026-07-13T00:36:59.000Z",
+      "score": 85,
+      "selectionReason": "Herramienta de código abierto muy útil para el desarrollo de robots móviles con ROS 2, directamente aplicable a proyectos del club."
+    }
+  ]
+}
