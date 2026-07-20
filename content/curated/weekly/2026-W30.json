@@ -1,0 +1,50 @@
+{
+  "week": "2026-W30",
+  "collectedAt": "2026-07-20T14:36:13.269Z",
+  "windowStart": "2026-07-20T00:00:00.000Z",
+  "windowEnd": "2026-07-27T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Desafío de Robots Trepadores de Muros (WCRC): ¿Cómo diseñar robots que escalen?",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge (WCRC) invita a diseñar robots que trepen muros. Es una excelente oportunidad para que el club explore y desarrolle sistemas de adhesión, tracción, control y percepción en superficies verticales.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "publishedAt": "2026-07-20T14:36:13.320Z",
+      "score": 62,
+      "selectionReason": "Oportunidad de competencia que inspira investigación práctica en áreas clave de robótica."
+    },
+    {
+      "title": "RoboCup 2026: Un mapa de competencias robóticas para inspirar al club",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026, con sus ligas de fútbol, rescate, robótica doméstica e industrial, es un referente global. El club puede estudiar sus categorías para diseñar pruebas universitarias con distintos niveles de dificultad.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-07-20T14:36:13.320Z",
+      "score": 50,
+      "selectionReason": "Competencia global de alto perfil que sirve como modelo para organizar eventos locales."
+    },
+    {
+      "title": "UNSW Robotics Challenge 2026: Aprendé a diseñar una competencia de rescate",
+      "url": "https://roboticscodingchallenge.org/current/",
+      "summary": "La UNSW Robotics & Coding Challenge 2026 propone una misión de rescate tras el colapso de una ruta. El club puede analizar este desafío para aprender a transformar un problema complejo en reglas claras, restricciones técnicas y objetivos evaluables para futuras competencias.",
+      "source": "UNSW Robotics & Coding Challenge 2026",
+      "category": "competition",
+      "publishedAt": "2026-07-20T14:36:13.320Z",
+      "score": 50,
+      "selectionReason": "Ofrece un caso práctico para entender la metodología de diseño de competencias robóticas."
+    },
+    {
+      "title": "Feedback para nuevos recursos de matemática y papers de robótica",
+      "url": "https://discourse.openrobotics.org/t/community-feedback-wanted-intuitive-robotics-math-and-paper-walkthroughs/56797",
+      "summary": "Un grupo de desarrolladores está pidiendo feedback para crear recursos de aprendizaje sobre matemática robótica y papers clásicos. La iniciativa busca explicar conceptos con foco en la intuición, las derivaciones y la implementación práctica, haciéndolos accesibles para principiantes.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://emoji.discourse-cdn.com/noto/smiley.png?v=15",
+      "publishedAt": "2026-07-20T08:27:52.000Z",
+      "score": 18,
+      "selectionReason": "Oportunidad para que los estudiantes influyan en la creación de recursos educativos útiles para el club."
+    }
+  ]
+}
