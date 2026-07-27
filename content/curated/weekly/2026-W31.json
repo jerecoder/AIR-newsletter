@@ -1,0 +1,40 @@
+{
+  "week": "2026-W31",
+  "collectedAt": "2026-07-27T15:18:55.933Z",
+  "windowStart": "2026-07-27T00:00:00.000Z",
+  "windowEnd": "2026-08-03T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "RoboCup 2026: Un mapa de ideas para nuestras competencias",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026, que reúne ligas de fútbol, rescate y robótica doméstica, es una excelente referencia para diseñar categorías y desafíos en las competencias que queremos organizar en la universidad.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-07-27T15:18:55.983Z",
+      "score": 95,
+      "selectionReason": "Es una oportunidad para estudiar formatos de competencia y categorías, muy útil para el objetivo del club de organizar torneos."
+    },
+    {
+      "title": "Desafío UNSW 2026: Cómo convertir un problema real en reglas de competencia",
+      "url": "https://roboticscodingchallenge.org/current/",
+      "summary": "La competencia de robótica de la UNSW de 2026 propone una misión de rescate tras un colapso vial. Es un caso práctico para analizar cómo se definen reglas, restricciones técnicas y entregables evaluables a partir de un problema abierto.",
+      "source": "UNSW Robotics & Coding Challenge 2026",
+      "category": "competition",
+      "publishedAt": "2026-07-27T15:18:55.983Z",
+      "score": 95,
+      "selectionReason": "Ofrece un ejemplo concreto de cómo diseñar una competencia, alineado con el interés del club en organizar eventos."
+    },
+    {
+      "title": "¿Cómo grabar rosbags de ROS de forma inteligente para depurar errores?",
+      "url": "https://discourse.openrobotics.org/t/stop-recording-huge-rosbags-can-we-capture-only-the-exact-perception-frame-that-caused-a-ros-latency-spike/56991",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/1/7/17e58216189cda386d971174e4a443808b44a93f_2_690x388.jpeg",
+      "publishedAt": "2026-07-27T12:44:24.000Z",
+      "score": 85,
+      "selectionReason": "Es una investigación práctica sobre ROS, relevante para la depuración y optimización de sistemas robóticos, útil para los proyectos del club."
+    }
+  ]
+}
