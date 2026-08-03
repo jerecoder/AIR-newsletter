@@ -1,0 +1,29 @@
+{
+  "week": "2026-W32",
+  "collectedAt": "2026-08-03T15:22:22.418Z",
+  "windowStart": "2026-08-03T00:00:00.000Z",
+  "windowEnd": "2026-08-10T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "RoboCup 2026: Un Catálogo de Ideas para Competencias Universitarias",
+      "url": "https://2026.robocup.org/",
+      "summary": "La RoboCup 2026, que incluye ligas de fútbol, rescate, robótica doméstica e industrial, sirve como un excelente punto de partida para que AIR explore y diseñe sus propias pruebas universitarias, adaptando desafíos con distintos niveles de complejidad.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-08-03T15:22:22.454Z",
+      "score": 95,
+      "selectionReason": "Ofrece un marco conceptual para diseñar competencias internas, alineado con el objetivo del club de organizar eventos."
+    },
+    {
+      "title": "Desafío UNSW 2026: Cómo Diseñar una Competencia de Robótica de Rescate",
+      "url": "https://roboticscodingchallenge.org/current/",
+      "summary": "El Desafío de Robótica y Codificación de la UNSW 2026 propone una misión de rescate tras un colapso vial. Este caso es ideal para que el club analice cómo transformar un problema real en reglas claras, restricciones técnicas y entregables evaluables para futuras competencias.",
+      "source": "UNSW Robotics & Coding Challenge 2026",
+      "category": "competition",
+      "publishedAt": "2026-08-03T15:22:22.454Z",
+      "score": 95,
+      "selectionReason": "Proporciona un ejemplo práctico de cómo estructurar una competencia de robótica, útil para los organizadores de AIR."
+    }
+  ]
+}
