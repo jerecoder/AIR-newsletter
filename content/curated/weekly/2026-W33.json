@@ -1,0 +1,40 @@
+{
+  "week": "2026-W33",
+  "collectedAt": "2026-08-10T13:50:17.327Z",
+  "windowStart": "2026-08-10T00:00:00.000Z",
+  "windowEnd": "2026-08-17T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "RoboCup 2026: Un horizonte para futuras competencias universitarias",
+      "url": "https://2026.robocup.org/",
+      "summary": "La próxima edición de RoboCup en 2026 ofrece un panorama de ligas de robótica en fútbol, rescate, hogar e industria. Pueden usar estas categorías como inspiración para diseñar pruebas y desafíos para futuras competencias interuniversitarias en Argentina.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-08-10T13:50:17.364Z",
+      "score": 95,
+      "selectionReason": "Oportunidad futura y fuente de ideas para organizar competencias locales, muy relevante para el club."
+    },
+    {
+      "title": "Desafío de Robótica UNSW 2026: Cómo diseñar una competencia de rescate",
+      "url": "https://roboticscodingchallenge.org/current/",
+      "summary": "La edición 2026 del desafío de la UNSW propone una misión de rescate tras un colapso vial. Este caso sirve para analizar cómo transformar un problema complejo en reglas claras, restricciones técnicas y objetivos evaluables para una competencia.",
+      "source": "UNSW Robotics & Coding Challenge 2026",
+      "category": "competition",
+      "publishedAt": "2026-08-10T13:50:17.364Z",
+      "score": 95,
+      "selectionReason": "Excelente ejemplo práctico para el diseño de competencias, alineado con el objetivo del club."
+    },
+    {
+      "title": "Control de brazo robótico con seguimiento facial usando ROS 2",
+      "url": "https://discourse.openrobotics.org/t/ros-2-based-face-tracking-display-control-with-piper-robotic-arm/57270",
+      "summary": "Este proyecto muestra cómo usar un brazo robótico AgileX PiPER de 6 grados de libertad y una cámara RGB-D Orbbec con ROS 2 para crear un sistema de seguimiento facial. Es una base sólida para explorar aplicaciones de visión artificial y manipulación robótica.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/6/6/6646e96e7b608cac3c8535f1a1ac9ef7772dd108.jpeg",
+      "publishedAt": "2026-08-10T02:50:19.000Z",
+      "score": 85,
+      "selectionReason": "Proyecto práctico con ROS 2, visión artificial y manipulación robótica, temas clave para el desarrollo de habilidades en el club."
+    }
+  ]
+}
