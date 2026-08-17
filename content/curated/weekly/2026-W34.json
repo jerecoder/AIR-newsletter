@@ -1,0 +1,62 @@
+{
+  "week": "2026-W34",
+  "collectedAt": "2026-08-17T13:12:21.761Z",
+  "windowStart": "2026-08-17T00:00:00.000Z",
+  "windowEnd": "2026-08-24T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "RoboCup 2026: Ideas para organizar competencias universitarias",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026 reúne ligas de fútbol, rescate, robótica doméstica e industrial. Este evento es un excelente mapa de categorías y desafíos con distintos niveles de dificultad que pueden inspirar las próximas competencias de robótica de AIR.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-08-17T13:12:21.813Z",
+      "score": 50,
+      "selectionReason": "Excelente fuente de inspiración para diseñar competencias universitarias, que es un objetivo clave del club."
+    },
+    {
+      "title": "Desafío de Robótica UNSW 2026: Cómo diseñar una competencia",
+      "url": "https://roboticscodingchallenge.org/current/",
+      "summary": "La edición 2026 del UNSW STEM, Robotics & Coding Challenge propone una misión de rescate tras un colapso vial. Es un caso práctico para estudiar cómo transformar un problema abierto en reglas claras, restricciones técnicas y entregables evaluables para una competencia.",
+      "source": "UNSW Robotics & Coding Challenge 2026",
+      "category": "competition",
+      "publishedAt": "2026-08-17T13:12:21.813Z",
+      "score": 50,
+      "selectionReason": "Ofrece un ejemplo concreto de cómo estructurar una competencia, algo muy útil para el club."
+    },
+    {
+      "title": "Generación rápida de rutas óptimas para robots: API gratuita para simulación",
+      "url": "https://discourse.openrobotics.org/t/generate-1m-strictly-optimal-robot-paths-in-7-s-of-compute-free-api-tier-for-simulation-training-datasets/57439",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-08-17T00:44:31.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/e/2/e2580bc2d1e3398c20399c8735572f973453b1a4.png",
+      "score": 26,
+      "selectionReason": "Herramienta práctica y accesible (API gratuita) para simulación y entrenamiento, relevante para equipos que trabajan con autonomía y planificación."
+    },
+    {
+      "title": "Exstrike: Infraestructura de seguridad en tiempo real para robots autónomos",
+      "url": "https://discourse.openrobotics.org/t/exstrike-real-time-vision-safety-infrastructure-for-autonomous-systems-tactical-robotics/57440",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-08-17T00:44:39.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/e/2/e2580bc2d1e3398c20399c8735572f973453b1a4.png",
+      "score": 22,
+      "selectionReason": "Aborda un tema crucial y práctico (seguridad en autonomía) con una técnica específica (CBF + visión) que los estudiantes pueden investigar."
+    },
+    {
+      "title": "Roboto Agents: IA para análisis de fallas y datos en ROS",
+      "url": "https://discourse.openrobotics.org/t/roboto-agents-agentic-triage-root-cause-analysis-and-data-curation-for-rosbags-and-mcap/57438",
+      "summary": "Roboto Agents utiliza inteligencia artificial para investigar datos de robótica, facilitando el análisis de la causa raíz de fallas y la curación de datos en archivos rosbags y MCAP. Esta herramienta puede acelerar la depuración de sistemas robóticos complejos.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-08-17T00:37:36.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/e/2/e2580bc2d1e3398c20399c8735572f973453b1a4.png",
+      "score": 22,
+      "selectionReason": "Herramienta innovadora que combina IA con ROS para el análisis de datos y depuración, muy útil para estudiantes que trabajan con ROS."
+    }
+  ]
+}
