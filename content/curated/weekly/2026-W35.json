@@ -1,0 +1,30 @@
+{
+  "week": "2026-W35",
+  "collectedAt": "2026-08-24T13:27:21.450Z",
+  "windowStart": "2026-08-24T00:00:00.000Z",
+  "windowEnd": "2026-08-31T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "RoboCup 2026: Inspiración para futuras competencias universitarias",
+      "url": "https://2026.robocup.org/",
+      "summary": "La RoboCup 2026, que reúne ligas de fútbol, rescate, robótica doméstica e industrial, sirve como un excelente punto de partida para que el club explore y diseñe nuevas categorías de competencias internas o interuniversitarias, adaptando desafíos de distintos niveles de dificultad.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-08-24T13:27:21.501Z",
+      "score": 50,
+      "selectionReason": "Oportunidad e inspiración para diseñar competencias locales, relevante para el objetivo del club."
+    },
+    {
+      "title": "Drones miniatura que se propulsan con sonido",
+      "url": "https://robohub.org/these-tiny-drones-are-powered-by-sound/",
+      "summary": "Investigadores desarrollaron microdrones que utilizan la resonancia de Helmholtz, el mismo principio físico que produce sonido al soplar una botella, para generar propulsión. Esta técnica abre nuevas vías para diseñar sistemas de vuelo compactos y eficientes.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-08-24T09:53:49.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/08/2216x1244-1024x576.jpg",
+      "score": 30,
+      "selectionReason": "Investigación práctica sobre drones y una técnica innovadora que puede inspirar proyectos."
+    }
+  ]
+}
