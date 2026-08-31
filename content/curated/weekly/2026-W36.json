@@ -1,0 +1,63 @@
+{
+  "week": "2026-W36",
+  "collectedAt": "2026-08-31T19:10:15.190Z",
+  "windowStart": "2026-08-31T00:00:00.000Z",
+  "windowEnd": "2026-09-07T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Desafío de Robots Trepamuros 2026: ¿Se animan a escalar?",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge propone diseñar robots capaces de trepar muros. Esta competencia es una excelente oportunidad para que los equipos de AIR trabajen en desafíos concretos de adhesión, tracción, control y percepción en superficies verticales, con vistas a la edición de 2026.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/petra/treasury-night-wide-1920.jpg",
+      "publishedAt": "2026-08-31T19:10:15.238Z",
+      "score": 62,
+      "selectionReason": "Oportunidad de competencia clara y desafiante, ideal para un club universitario, con un problema técnico bien definido."
+    },
+    {
+      "title": "RoboCup 2026: Un mapa de ideas para futuras competencias universitarias",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026 reúne ligas de fútbol, rescate, robótica doméstica e industrial. Más que una sola competencia, es una fuente de inspiración para que los equipos de AIR piensen en categorías y pruebas universitarias con distintos niveles de dificultad para organizar o participar en el futuro.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-08-31T19:10:15.238Z",
+      "score": 50,
+      "selectionReason": "Gran fuente de inspiración para organizar competencias internas o participar en el futuro, mostrando la diversidad de la robótica."
+    },
+    {
+      "title": "Mano robótica blanda impresa en 3D: Manipulación delicada con materiales flexibles",
+      "url": "https://techxplore.com/news/2026-08-soft-3d-robotic-gently-eggs.html",
+      "summary": "Investigadores coreanos desarrollaron una mano robótica blanda impresa en 3D, capaz de manipular desde huevos hasta una botella de agua de 1 kg. Utilizaron IA para optimizar un material imprimible que combina flexibilidad y resistencia, abriendo puertas a diseños de actuadores más versátiles para el club.",
+      "source": "Tech Xplore Robotics",
+      "category": "research",
+      "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-develops-a-soft-2.jpg",
+      "publishedAt": "2026-08-31T13:00:08.000Z",
+      "score": 28,
+      "selectionReason": "Investigación práctica en robótica blanda y 3D printing, con aplicación directa en manipulación, útil para proyectos del club."
+    },
+    {
+      "title": "Robots humanoides: la incomodidad genera desconfianza, según un estudio cerebral",
+      "url": "https://robohub.org/when-expressive-humanoid-robots-are-awkward-people-become-wary-new-brain-study/",
+      "summary": "La nota presenta una línea de investigación robótica con posible aplicación en proyectos estudiantiles. Vale leerla buscando qué técnica se podría simplificar, simular o convertir en una prueba concreta para el club.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-08-31T09:18:24.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/08/alex-knight-2EJCSULRwC8-unsplash-1024x683.jpg",
+      "score": 28,
+      "selectionReason": "Investigación relevante en HRI, con implicaciones directas para el diseño de robots sociales y la interacción con usuarios, útil para proyectos de interfaz."
+    },
+    {
+      "title": "Diseño de robots sociales: Caras de animales o estilo anime aumentan el atractivo emocional",
+      "url": "https://techxplore.com/news/2026-08-animal-anime-boost-social-robots.html",
+      "summary": "La nota presenta una línea de investigación robótica con posible aplicación en proyectos estudiantiles. Vale leerla buscando qué técnica se podría simplificar, simular o convertir en una prueba concreta para el club.",
+      "source": "Tech Xplore Robotics",
+      "category": "research",
+      "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/research-could-guide-t.jpg",
+      "publishedAt": "2026-08-31T14:20:05.000Z",
+      "score": 18,
+      "selectionReason": "Investigación práctica en HRI y diseño de robots sociales, con consejos directos para la estética y la interacción."
+    }
+  ]
+}
