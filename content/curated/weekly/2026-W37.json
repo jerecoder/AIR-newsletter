@@ -1,0 +1,63 @@
+{
+  "week": "2026-W37",
+  "collectedAt": "2026-09-07T17:47:06.005Z",
+  "windowStart": "2026-09-07T00:00:00.000Z",
+  "windowEnd": "2026-09-14T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "NASA Space Roboticist Challenge: propose an experiment for a 7-DoF arm in orbit (U.S.; registration closes Sep 23)",
+      "url": "https://discourse.openrobotics.org/t/nasa-space-roboticist-challenge-propose-an-experiment-for-a-7-dof-arm-in-orbit-u-s-registration-closes-sep-23/57919",
+      "summary": "La nota revisa qué suele fallar cuando las especificaciones de un brazo robótico se llevan a una implementación real. Para AIR, ayuda a mirar más allá de torque, alcance y carga útil, y pensar integración, repetibilidad y entorno.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-09-07T02:32:30.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/e/2/e2580bc2d1e3398c20399c8735572f973453b1a4.png",
+      "score": 66,
+      "selectionReason": "noticia de competencia, fecha o inscripción accionable, idea técnica construible"
+    },
+    {
+      "title": "rises again.\" data-ar=\"الجدار يرتفع من جديد.\">The wall rises again.",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge propone diseñar robots capaces de trepar muros, una consigna muy concreta para trabajar adhesión, tracción, control y percepción en superficies verticales.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/petra/treasury-night-wide-1920.jpg",
+      "publishedAt": "2026-09-07T17:47:06.054Z",
+      "score": 62,
+      "selectionReason": "noticia de competencia, idea técnica construible, fuente de competencia"
+    },
+    {
+      "title": "RoboCup 2026",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026 reúne ligas de fútbol, rescate, robótica doméstica e industrial. Más que una sola competencia, funciona como un mapa de categorías posibles para pensar pruebas universitarias con distintos niveles de dificultad.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-09-07T17:47:06.054Z",
+      "score": 50,
+      "selectionReason": "noticia de competencia, fuente de competencia"
+    },
+    {
+      "title": "What is the hardest part of learning ROS 2 as a beginner",
+      "url": "https://discourse.openrobotics.org/t/what-is-the-hardest-part-of-learning-ros-2-as-a-beginner/57917",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-09-07T02:31:49.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/7/4/7440d7d64419ea65e2220645fa630a8c23ade8fa_2_1024x576.jpeg",
+      "score": 30,
+      "selectionReason": "idea técnica construible, valor técnico para aprender"
+    },
+    {
+      "title": "Could robots help tackle loneliness? BBC’s Ann Droid raises questions about the future of care",
+      "url": "https://robohub.org/could-robots-help-tackle-loneliness-bbcs-ann-droid-raises-questions-about-the-future-of-care/",
+      "summary": "La nota presenta una línea de investigación robótica con posible aplicación en proyectos estudiantiles. Vale leerla buscando qué técnica se podría simplificar, simular o convertir en una prueba concreta para el club.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-09-07T09:33:36.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/08/antranias-human-511848-1024x740.jpg",
+      "score": 18,
+      "selectionReason": "encaja con equipos estudiantiles"
+    }
+  ]
+}
