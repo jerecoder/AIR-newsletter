@@ -1,0 +1,52 @@
+{
+  "week": "2026-W38",
+  "collectedAt": "2026-09-14T18:06:34.830Z",
+  "windowStart": "2026-09-14T00:00:00.000Z",
+  "windowEnd": "2026-09-21T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Desafío de Robots Trepamuros 2026: ¿Se animan a escalar?",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge propone diseñar robots capaces de trepar muros. Es una consigna concreta para que los equipos de AIR trabajen en adhesión, tracción, control y percepción en superficies verticales, y una idea para futuras competencias locales.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/petra/treasury-night-wide-1920.jpg",
+      "publishedAt": "2026-09-14T18:06:34.882Z",
+      "score": 62,
+      "selectionReason": "Oportunidad de competencia con desafío técnico claro, ideal para inspirar proyectos y competencias internas."
+    },
+    {
+      "title": "RoboCup 2026: Un mapa de desafíos para futuras competencias universitarias",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026 reúne ligas de fútbol, rescate, robótica doméstica e industrial. Este evento funciona como un mapa de categorías posibles para que AIR piense pruebas universitarias con distintos niveles de dificultad.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-09-14T18:06:34.882Z",
+      "score": 50,
+      "selectionReason": "Competencia internacional de alto perfil que sirve como inspiración y referencia para organizar eventos locales."
+    },
+    {
+      "title": "Cómo medir la robustez de políticas de robots: una propuesta en Open Robotics",
+      "url": "https://discourse.openrobotics.org/t/proposal-report-the-no-perturbation-arm-next-to-any-robot-policyresilience-number/58099",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-09-14T00:26:20.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/e/2/e2580bc2d1e3398c20399c8735572f973453b1a4.png",
+      "score": 30,
+      "selectionReason": "Investigación práctica sobre evaluación de robustez en robótica, útil para equipos que desarrollan algoritmos de control o IA."
+    },
+    {
+      "title": "Nav2 Ready v0.1.0: Una herramienta para verificar la compatibilidad de tu robot con Nav2",
+      "url": "https://discourse.openrobotics.org/t/nav2-ready-v0-1-0-a-cli-readiness-checker-for-custom-nav2-robots/58095",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/7/b/7b7319a7fdac1542ff782a0eaf7facb5d76b7e64_2_690x345.png",
+      "publishedAt": "2026-09-14T00:24:30.000Z",
+      "score": 22,
+      "selectionReason": "Herramienta práctica y de código abierto para equipos que trabajan con ROS 2 y navegación autónoma (Nav2)."
+    }
+  ]
+}
