@@ -1,0 +1,51 @@
+{
+  "week": "2026-W39",
+  "collectedAt": "2026-09-21T18:14:29.446Z",
+  "windowStart": "2026-09-21T00:00:00.000Z",
+  "windowEnd": "2026-09-28T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Desafío de Robots Trepamuros 2026: ¿Se animan a escalar?",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge 2026 invita a diseñar robots capaces de trepar muros. Esta competencia es una excelente oportunidad para que el club explore y desarrolle sistemas de adhesión, tracción, control y percepción en superficies verticales, aplicando conocimientos de forma práctica.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/petra/treasury-night-wide-1920.jpg",
+      "publishedAt": "2026-09-21T18:14:29.492Z",
+      "score": 62,
+      "selectionReason": "Oportunidad de competencia y desafío técnico concreto para el club, ideal para investigación práctica en autonomía y percepción."
+    },
+    {
+      "title": "RoboCup 2026: Un panorama de ligas para inspirar futuras competencias",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026, una de las competencias de robótica más importantes, agrupa ligas de fútbol, rescate, robótica doméstica e industrial. Sirve como un excelente punto de partida para que el club explore distintas categorías y niveles de dificultad al momento de pensar en organizar o participar en pruebas universitarias.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-09-21T18:14:29.492Z",
+      "score": 50,
+      "selectionReason": "Oportunidad de competencia internacional y fuente de inspiración para organizar competencias locales, cubriendo diversas áreas de la robótica."
+    },
+    {
+      "title": "NVIDIA Jetson Orin Nano 2: Más potencia para IA en robots compactos",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/09/21/rs-south-africa-supports-next-generation-edge-artificial-intelligence-ai-with-nvidia-jetson-orin-nano-2/27126",
+      "summary": "La nueva computadora compacta NVIDIA Jetson Orin Nano 2 potencia la inteligencia artificial en el 'edge', abriendo nuevas posibilidades para el desarrollo de máquinas inteligentes, robótica y visión por computadora. Este hardware es ideal para proyectos del club que requieran procesamiento de IA en dispositivos pequeños y autónomos.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-09-21T12:41:08.000Z",
+      "score": 30,
+      "selectionReason": "Noticia de herramienta útil (hardware) para proyectos de IA y robótica en el club, relevante para investigación práctica en autonomía y percepción."
+    },
+    {
+      "title": "Así se opera un rover en Marte: Una mirada al centro de control de la NASA",
+      "url": "https://robohub.org/mars-rovers-give-scientists-a-ground-level-view-of-the-red-planet-peek-inside-their-nasa-control-room/",
+      "summary": "La nota presenta una línea de investigación robótica con posible aplicación en proyectos estudiantiles. Vale leerla buscando qué técnica se podría simplificar, simular o convertir en una prueba concreta para el club.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-09-21T09:38:58.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/08/file-20260807-50-uvk49f.jpg-1024x683.jpg",
+      "score": 22,
+      "selectionReason": "Noticia de investigación práctica e inspiración, mostrando la aplicación real de robótica avanzada (autonomía, operación remota) en un contexto desafiante."
+    }
+  ]
+}
