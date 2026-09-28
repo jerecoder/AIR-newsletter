@@ -1,0 +1,63 @@
+{
+  "week": "2026-W40",
+  "collectedAt": "2026-09-28T19:44:32.401Z",
+  "windowStart": "2026-09-28T00:00:00.000Z",
+  "windowEnd": "2026-10-05T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Desafío de Robots Trepamuros 2026: ¿Tu robot puede escalar?",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge propone diseñar robots capaces de trepar muros. Es una consigna concreta para que el club explore adhesión, tracción, control y percepción en superficies verticales, y una excelente idea para una competencia interna.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/petra/treasury-night-wide-1920.jpg",
+      "publishedAt": "2026-09-28T19:44:32.449Z",
+      "score": 62,
+      "selectionReason": "Oportunidad de competencia con una consigna técnica muy clara y aplicable a proyectos del club. Inspira competencias locales."
+    },
+    {
+      "title": "RoboCup 2026: Un panorama de ligas para inspirar competencias locales",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026 reúne ligas de fútbol, rescate, robótica doméstica e industrial. Más que una competencia, es un mapa de categorías posibles para que el club piense pruebas universitarias con distintos niveles de dificultad.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-09-28T19:44:32.449Z",
+      "score": 50,
+      "selectionReason": "Oportunidad de inspiración para el club, mostrando la diversidad de competencias de robótica y sus categorías."
+    },
+    {
+      "title": "Linorobot2 Cockpit: probá esta herramienta para autonomía de robots móviles",
+      "url": "https://discourse.openrobotics.org/t/linorobot2-cockpit-in-browser-web-supervisor-turnkey-micro-ros-1-click-nav2-autonomy-call-for-testers/58474",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://emoji.discourse-cdn.com/noto/robot.png?v=15",
+      "publishedAt": "2026-09-28T16:26:19.000Z",
+      "score": 42,
+      "selectionReason": "Oportunidad para estudiantes de probar una herramienta práctica que integra micro-ROS, Nav2 y simulación, relevante para proyectos de autonomía."
+    },
+    {
+      "title": "Clon de SenseRobot Chess de código abierto: un proyecto DIY sin ROS",
+      "url": "https://discourse.openrobotics.org/t/open-source-senserobot-chess-clone-no-ros-required/58476",
+      "summary": "Un desarrollador creó un clon de código abierto del SenseRobot AI Chess Trainer, replicando sus mecánicas de movimiento de piezas, seguimiento de visión con IA y precisión del brazo robótico usando componentes DIY. Es un proyecto ideal para estudiar manipulación y visión artificial sin necesidad de ROS.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://emoji.discourse-cdn.com/noto/hammer_and_wrench.png?v=15",
+      "publishedAt": "2026-09-28T16:26:55.000Z",
+      "score": 22,
+      "selectionReason": "Proyecto práctico de código abierto que los estudiantes pueden replicar o aprender, enfocado en manipulación y visión artificial con componentes DIY."
+    },
+    {
+      "title": "Peces robóticos escalables: mantienen su capacidad de nado sin importar el tamaño",
+      "url": "https://robohub.org/small-medium-or-large-a-robotic-fish-maintains-its-swimming-ability/",
+      "summary": "Investigadores desarrollaron un pez robótico, ScaFi, que mantiene su capacidad de nado y eficiencia energética sin importar si es pequeño, mediano o grande. Este avance es clave para diseñar vehículos submarinos autónomos que se adapten a diversas misiones de exploración y monitoreo.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-09-28T11:24:15.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/09/2216x1244-1-1024x575.jpg",
+      "score": 18,
+      "selectionReason": "Noticia de investigación práctica sobre robótica bioinspirada y escalabilidad, relevante para el diseño y control de vehículos autónomos submarinos."
+    }
+  ]
+}
