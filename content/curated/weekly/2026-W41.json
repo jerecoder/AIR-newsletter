@@ -1,0 +1,74 @@
+{
+  "week": "2026-W41",
+  "collectedAt": "2026-10-05T20:36:40.678Z",
+  "windowStart": "2026-10-05T00:00:00.000Z",
+  "windowEnd": "2026-10-12T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Desafío de Robots Trepamuros 2026: ¡A escalar!",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge 2026 invita a diseñar robots capaces de trepar muros. Esta competencia es una excelente oportunidad para que los equipos exploren desafíos de adhesión, tracción, control y percepción en superficies verticales, y puede inspirar ideas para pruebas locales.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/petra/treasury-night-wide-1920.jpg",
+      "publishedAt": "2026-10-05T20:36:40.715Z",
+      "score": 62,
+      "selectionReason": "Oportunidad de competencia y fuente de inspiración para desafíos locales, relevante para autonomía y percepción."
+    },
+    {
+      "title": "RoboCup 2026: Un panorama de ligas para futuras competencias",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026, una de las competencias de robótica más grandes del mundo, ya está en el horizonte. Reúne ligas de fútbol, rescate, robótica doméstica e industrial, ofreciendo un mapa de categorías y desafíos que pueden servir de base para organizar pruebas universitarias en Argentina.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-10-05T20:36:40.715Z",
+      "score": 50,
+      "selectionReason": "Oportunidad de competencia global y fuente de inspiración para el diseño de ligas y pruebas locales."
+    },
+    {
+      "title": "Investigación: ¿Cómo diseñar robots sociales más atractivos?",
+      "url": "https://robohub.org/research-could-guide-the-future-design-of-social-robots/",
+      "summary": "La nota presenta una línea de investigación robótica con posible aplicación en proyectos estudiantiles. Vale leerla buscando qué técnica se podría simplificar, simular o convertir en una prueba concreta para el club.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-10-05T10:00:33.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/10/Screenshot-2026-09-27-at-10.29.52-1-1024x599.png",
+      "score": 36,
+      "selectionReason": "Noticia de investigación práctica sobre diseño de interacción humano-robot, relevante para percepción y manipulación de la experiencia del usuario."
+    },
+    {
+      "title": "NXP lanza el Ara240: un chip para IA en robots autónomos",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/10/05/mouser-now-shipping-new-nxp-semiconductors-ara240-discrete-neural-processing-unit-for-ai-edge-industrial-and-robotics-applications/27203",
+      "summary": "La noticia aporta contexto de robótica aplicada para discusiones técnicas del club. Conviene leerla buscando ideas trasladables a prototipos, reglas de competencia o demostraciones para estudiantes.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-10-05T18:07:36.000Z",
+      "imageUrl": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+      "score": 22,
+      "selectionReason": "Noticia de hardware relevante para IA, robótica autónoma y aplicaciones de borde, útil para equipos que buscan componentes avanzados."
+    },
+    {
+      "title": "RoboStacker: una herramienta gratuita para planificar software en ROS 2",
+      "url": "https://discourse.openrobotics.org/t/robostacker-describe-your-robot-get-a-ros-2-stack-and-a-workspace-to-build-feedback-welcome/58579",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-10-05T00:13:51.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/e/2/e2580bc2d1e3398c20399c8735572f973453b1a4.png",
+      "score": 22,
+      "selectionReason": "Herramienta práctica y gratuita para ROS 2, directamente aplicable a proyectos del club y desarrollo de software."
+    },
+    {
+      "title": "SafeWorld: un laboratorio de IA enfocado en la seguridad de robots",
+      "url": "http://www.RoboticsTomorrow.com/news/2026/10/05/introducing-safeworld-an-ai-lab-building-systems-to-improve-robot-safety-for-the-next-billion-machines/27202",
+      "summary": "La noticia aporta contexto de robótica aplicada para discusiones técnicas del club. Conviene leerla buscando ideas trasladables a prototipos, reglas de competencia o demostraciones para estudiantes.",
+      "source": "RoboticsTomorrow",
+      "category": "industry",
+      "publishedAt": "2026-10-05T14:19:32.000Z",
+      "imageUrl": "https://www.roboticstomorrow.com/images/facebooknews.jpg",
+      "score": 18,
+      "selectionReason": "Noticia de investigación/empresa relevante para simulación y seguridad en robótica, un aspecto crítico para el desarrollo de sistemas autónomos."
+    }
+  ]
+}
