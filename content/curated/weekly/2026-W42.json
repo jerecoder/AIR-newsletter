@@ -1,0 +1,73 @@
+{
+  "week": "2026-W42",
+  "collectedAt": "2026-10-12T21:19:47.885Z",
+  "windowStart": "2026-10-12T00:00:00.000Z",
+  "windowEnd": "2026-10-19T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Desafío de Robots Trepamuros 2026: ¿Se animan a escalar?",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge propone diseñar robots capaces de trepar muros. Esta competencia es una excelente oportunidad para que el club explore desafíos de adhesión, tracción, control y percepción en superficies verticales.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/petra/treasury-night-wide-1920.jpg",
+      "publishedAt": "2026-10-12T21:19:47.938Z",
+      "score": 95,
+      "selectionReason": "Oportunidad de competencia concreta y desafiante, ideal para un club universitario."
+    },
+    {
+      "title": "RoboCup 2026: Un mapa de ideas para futuras competencias universitarias",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026 reúne ligas de fútbol, rescate, robótica doméstica e industrial. Sus diversas categorías pueden servir como inspiración para pensar y organizar nuestras propias pruebas de robótica con distintos niveles de dificultad.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-10-12T21:19:47.938Z",
+      "score": 90,
+      "selectionReason": "Gran fuente de inspiración para organizar competencias internas o interuniversitarias, cubriendo diversas áreas de la robótica."
+    },
+    {
+      "title": "ROS 2, GLIM y nvblox: Herramientas clave para drones autónomos",
+      "url": "https://discourse.openrobotics.org/t/advice-on-ros-2-glim-and-nvblox-for-autonomous-drones/58781",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-10-12T07:25:30.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/e/2/e2580bc2d1e3398c20399c8735572f973453b1a4.png",
+      "score": 85,
+      "selectionReason": "Investigación práctica y herramientas útiles para proyectos de drones autónomos, directamente aplicable para estudiantes."
+    },
+    {
+      "title": "El verdadero desafío de los robots humanoides: más allá del deporte, la vida cotidiana",
+      "url": "https://robohub.org/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry/",
+      "summary": "La nota presenta una línea de investigación robótica con posible aplicación en proyectos estudiantiles. Vale leerla buscando qué técnica se podría simplificar, simular o convertir en una prueba concreta para el club.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-10-12T07:51:21.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/10/sophiamartin-clothes-pins-8281931-1024x683.jpg",
+      "score": 80,
+      "selectionReason": "Noticia de investigación que ofrece una perspectiva crítica y práctica sobre los desafíos actuales de la robótica humanoide, útil para entender limitaciones y futuras líneas de trabajo."
+    },
+    {
+      "title": "Biomimética: Un robot gusano que bombea agua y se mueve en terrenos complejos",
+      "url": "https://newatlas.com/robotics/worma-weight-shifting-worm-robot/",
+      "summary": "La noticia aporta contexto de robótica aplicada para discusiones técnicas del club. Conviene leerla buscando ideas trasladables a prototipos, reglas de competencia o demostraciones para estudiantes.",
+      "source": "New Atlas Robotics",
+      "category": "industry",
+      "imageUrl": "https://assets.newatlas.com/dims4/default/d1b94a5/2147483647/strip/true/crop/2500x1666+0+0/resize/1440x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Ffb%2F59%2Fecdc58c94dc3aa1f5ad14a363268%2Fscreenshot-2026-10-07-at-11-10-53-am.jpeg",
+      "publishedAt": "2026-10-12T00:35:00.000Z",
+      "score": 75,
+      "selectionReason": "Noticia de investigación práctica sobre biomimética y locomoción, que puede inspirar proyectos de diseño mecánico y control."
+    },
+    {
+      "title": "Guía práctica para herramientas robóticas con impresión 3D SLS PA12",
+      "url": "https://roboticsandautomationnews.com/2026/10/12/sls-pa12-robot-tooling-a-practical-qualification-guide/105821/",
+      "summary": "Esta guía aborda la calificación de herramientas robóticas fabricadas con SLS PA12, un material común en impresión 3D. Explica cómo asegurar que un gripper diseñado en CAD funcione correctamente en la práctica, considerando el material y el acabado de las piezas.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-10-12T15:22:14.000Z",
+      "score": 70,
+      "selectionReason": "Herramienta práctica y guía sobre materiales y fabricación (impresión 3D) para componentes robóticos, relevante para el diseño y construcción de robots."
+    }
+  ]
+}
