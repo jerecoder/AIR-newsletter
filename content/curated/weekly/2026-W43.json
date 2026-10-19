@@ -1,0 +1,62 @@
+{
+  "week": "2026-W43",
+  "collectedAt": "2026-10-19T18:45:49.641Z",
+  "windowStart": "2026-10-19T00:00:00.000Z",
+  "windowEnd": "2026-10-26T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Wall-Climbing Robot Challenge 2026: ¿Listos para trepar muros?",
+      "url": "https://wcrc.pro/",
+      "summary": "Este desafío propone diseñar robots capaces de escalar superficies verticales. Es una excelente oportunidad para que los equipos de AIR exploren y desarrollen sistemas de adhesión, tracción, control y percepción, o para inspirar una competencia interna.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/petra/treasury-night-wide-1920.jpg",
+      "publishedAt": "2026-10-19T18:45:49.690Z",
+      "score": 62,
+      "selectionReason": "Oportunidad de competencia clara y relevante para el club, con desafíos técnicos concretos que pueden replicar o estudiar."
+    },
+    {
+      "title": "RoboCup 2026: Un mapa de desafíos para la robótica universitaria",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026 presenta ligas de fútbol, rescate, robótica doméstica e industrial. Sirve como una guía para que los equipos de AIR exploren distintas categorías de robótica y piensen en posibles competencias universitarias con variados niveles de dificultad.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-10-19T18:45:49.690Z",
+      "score": 50,
+      "selectionReason": "Referente global de competencias de robótica, útil para inspirar categorías y formatos de competencias locales para el club."
+    },
+    {
+      "title": "Agility Robotics lanza Digit 5: Lecciones del rediseño de un robot humanoide",
+      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "summary": "La nota presenta una línea de investigación robótica con posible aplicación en proyectos estudiantiles. Vale leerla buscando qué técnica se podría simplificar, simular o convertir en una prueba concreta para el club.",
+      "source": "IEEE Spectrum Robotics",
+      "category": "research",
+      "imageUrl": "https://spectrum.ieee.org/media-library/author-jonathan-hurst-a-tall-slim-white-man-wearing-a-black-long-sleeve-shirt-and-dark-jeans-stands-next-to-his-digit-5-humano.jpg?id=68441166&width=980",
+      "publishedAt": "2026-10-19T13:00:03.000Z",
+      "score": 36,
+      "selectionReason": "Noticia de un robot humanoide relevante (Digit 5) con un ángulo de ingeniería práctica y el proceso de diseño, útil para estudiantes."
+    },
+    {
+      "title": "robot-data-diff: Una herramienta para comparar datasets de robótica",
+      "url": "https://discourse.openrobotics.org/t/robot-data-diff-episode-aware-diffs-for-lerobot-datasets/58956",
+      "summary": "Esta herramienta de línea de comandos permite comparar dos versiones de un dataset de robótica (especialmente LeRobot), ayudando a identificar si los cambios en el rendimiento de un algoritmo se deben al código o a los datos. Útil para depurar modelos de aprendizaje por refuerzo.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-10-19T16:16:05.000Z",
+      "score": 18,
+      "selectionReason": "Herramienta práctica para la gestión y depuración de datasets en robótica, relevante para equipos que trabajan con ML y autonomía."
+    },
+    {
+      "title": "Robots biohíbridos: Un aquabot impulsado por células musculares",
+      "url": "https://robohub.org/powered-by-muscle-cells-a-paper-thin-robot-swims-through-watery-maze/",
+      "summary": "La nota presenta una línea de investigación robótica con posible aplicación en proyectos estudiantiles. Vale leerla buscando qué técnica se podría simplificar, simular o convertir en una prueba concreta para el club.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-10-19T07:07:59.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/09/MIT-RoboMuscle-01-press_0.jpg",
+      "score": 18,
+      "selectionReason": "Investigación innovadora en robótica biohíbrida con un ejemplo concreto (aquabot), que puede inspirar proyectos o estudios en el club."
+    }
+  ]
+}
