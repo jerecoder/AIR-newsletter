@@ -1,0 +1,52 @@
+{
+  "week": "2026-W44",
+  "collectedAt": "2026-10-26T18:44:11.987Z",
+  "windowStart": "2026-10-26T00:00:00.000Z",
+  "windowEnd": "2026-11-02T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Desafío de Robots Trepamuros 2026: ¡A escalar!",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge 2026 invita a diseñar robots capaces de trepar muros. Es una excelente oportunidad para que los equipos de AIR exploren desafíos de adhesión, tracción, control y percepción en superficies verticales, o para inspirar una competencia interna.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/petra/treasury-night-wide-1920.jpg",
+      "publishedAt": "2026-10-26T18:44:12.038Z",
+      "score": 95,
+      "selectionReason": "Oportunidad de competencia clara y relevante para un club universitario, con enfoque en investigación práctica."
+    },
+    {
+      "title": "RoboCup 2026: Un mapa de ideas para futuras competencias universitarias",
+      "url": "https://2026.robocup.org/",
+      "summary": "RoboCup 2026, que incluye ligas de fútbol, rescate, robótica doméstica e industrial, es una fuente de inspiración para el club. Pueden estudiar sus categorías y reglamentos para diseñar pruebas universitarias con distintos niveles de dificultad en Argentina.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-10-26T18:44:12.038Z",
+      "score": 90,
+      "selectionReason": "Gran fuente de inspiración para organizar competencias locales y explorar diversas áreas de la robótica."
+    },
+    {
+      "title": "BTick: Una nueva herramienta para depurar árboles de comportamiento en ROS 2",
+      "url": "https://discourse.openrobotics.org/t/btick-behavior-tree-monitoring-debugging-for-ros-2/59220",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/7/5/75c54a41282b763aa11d13523c7076af8e638609_2_690x388.png",
+      "publishedAt": "2026-10-26T15:08:44.000Z",
+      "score": 85,
+      "selectionReason": "Herramienta práctica y relevante para el desarrollo en ROS 2, útil para los proyectos del club."
+    },
+    {
+      "title": "Investigación: Mano robótica que camina usando sus \"dedos como patas\"",
+      "url": "https://robohub.org/robots-in-society-business-and-culture-september-2026/",
+      "summary": "Un estudio reciente presenta una mano robótica antropomórfica capaz de moverse por sí misma, utilizando sus dedos como patas para la locomoción y manipulación. Los equipos de AIR pueden explorar esta técnica para desarrollar nuevas formas de movilidad y agarre en sus proyectos.",
+      "source": "Robohub",
+      "category": "research",
+      "publishedAt": "2026-10-26T10:17:34.000Z",
+      "imageUrl": "https://robohub.org/wp-content/uploads/2026/10/robot_hand-1024x797.jpeg",
+      "score": 80,
+      "selectionReason": "Investigación práctica e innovadora en manipulación y locomoción, con potencial para inspirar proyectos del club."
+    }
+  ]
+}
