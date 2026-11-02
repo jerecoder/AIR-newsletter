@@ -1,0 +1,74 @@
+{
+  "week": "2026-W45",
+  "collectedAt": "2026-11-02T21:49:43.194Z",
+  "windowStart": "2026-11-02T00:00:00.000Z",
+  "windowEnd": "2026-11-09T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Desafío de Robots Trepamuros 2026: ¿Se animan a la vertical?",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge 2026 ya está abierto para equipos que quieran diseñar robots capaces de trepar muros. Es una excelente oportunidad para explorar técnicas de adhesión, tracción, control y percepción en superficies verticales, y una idea concreta para una competencia interna.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/petra/treasury-night-wide-1920.jpg",
+      "publishedAt": "2026-11-02T21:49:43.243Z",
+      "score": 62,
+      "selectionReason": "Oportunidad de competencia vigente y fuente de inspiración para desafíos locales."
+    },
+    {
+      "title": "RoboCup 2026: Un panorama de ligas y desafíos para la robótica universitaria",
+      "url": "https://2026.robocup.org/",
+      "summary": "La RoboCup 2026 ya está en marcha, presentando sus ligas de fútbol, rescate, robótica doméstica e industrial. Es una excelente referencia para entender las distintas categorías de competencias de robótica y encontrar inspiración para organizar pruebas en la universidad.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-11-02T21:49:43.243Z",
+      "score": 50,
+      "selectionReason": "Oportunidad de competencia vigente y fuente de inspiración para desafíos locales."
+    },
+    {
+      "title": "Intrinsic Core: Nuevo framework open-source para control en tiempo real y planificación de movimiento",
+      "url": "https://discourse.openrobotics.org/t/intrinsic-core-released-open-source-ros-compatible-real-time-control-motion-planning-and-more/59457",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/a/3/a3b80fd1bc8a39f40402b4eb00dd286788c8640d_2_690x388.jpeg",
+      "publishedAt": "2026-11-02T18:13:28.000Z",
+      "score": 22,
+      "selectionReason": "Herramienta útil y open-source para el club, enfocada en control en tiempo real y planificación de movimiento con ROS."
+    },
+    {
+      "title": "Simulación escalable multi-robot en ROS 2 y Gazebo: Un proyecto GSoC 2026",
+      "url": "https://discourse.openrobotics.org/t/gsoc-2026-scalable-multi-robot-simulation-in-ros-2-and-gazebo/59454",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/7/a/7aa4e07b1ee024239cd22b5ffe6b77f9bd66679d_2_516x256.jpeg",
+      "publishedAt": "2026-11-02T16:19:28.000Z",
+      "score": 26,
+      "selectionReason": "Noticia de investigación práctica y herramienta útil para el club, enfocada en simulación multi-robot con ROS 2 y Gazebo."
+    },
+    {
+      "title": "Project TERRAIN: Investigación sobre navegación robusta y tolerancia a fallos en simulación",
+      "url": "https://discourse.openrobotics.org/t/project-terrain-seeking-independent-review-of-robotics-navigation-and-fault-tolerance-simulation/59428",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/f/a/faa6095ecffc9a93413364166671c962a3f0570d_2_690x344.png",
+      "publishedAt": "2026-11-02T00:49:43.000Z",
+      "score": 30,
+      "selectionReason": "Noticia de investigación práctica en simulación, navegación y tolerancia a fallos, relevante para proyectos de grado."
+    },
+    {
+      "title": "IA humanoide aprende a caminar y manipular objetos sin secuencias completas de tareas",
+      "url": "https://techxplore.com/news/2026-11-humanoid-ai-task-sequences.html",
+      "summary": "La nota presenta una línea de investigación robótica con posible aplicación en proyectos estudiantiles. Vale leerla buscando qué técnica se podría simplificar, simular o convertir en una prueba concreta para el club.",
+      "source": "Tech Xplore Robotics",
+      "category": "research",
+      "imageUrl": "https://scx1.b-cdn.net/csz/news/tmb/2026/snu-professor-songhwai.jpg",
+      "publishedAt": "2026-11-02T21:00:26.000Z",
+      "score": 22,
+      "selectionReason": "Noticia de investigación avanzada en IA y control de humanoides, con implicaciones prácticas para la autonomía y manipulación."
+    }
+  ]
+}
