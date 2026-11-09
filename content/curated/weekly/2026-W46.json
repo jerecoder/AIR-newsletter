@@ -1,0 +1,74 @@
+{
+  "week": "2026-W46",
+  "collectedAt": "2026-11-09T22:33:22.556Z",
+  "windowStart": "2026-11-09T00:00:00.000Z",
+  "windowEnd": "2026-11-16T00:00:00.000Z",
+  "articles": [
+    {
+      "title": "Wall-Climbing Robot Challenge 2026: Diseñen robots trepamuros",
+      "url": "https://wcrc.pro/",
+      "summary": "El Wall-Climbing Robot Challenge 2026 ya está abierto para inscripciones. Este desafío propone diseñar robots capaces de trepar muros, una consigna ideal para que los equipos trabajen en adhesión, tracción, control y percepción en superficies verticales.",
+      "source": "Wall-Climbing Robot Challenge 2026",
+      "category": "competition",
+      "imageUrl": "https://wcrc.pro/media/petra/treasury-night-wide-1920.jpg",
+      "publishedAt": "2026-11-09T22:33:22.594Z",
+      "score": 62,
+      "selectionReason": "Oportunidad de competencia con desafío técnico claro, ideal para inspirar proyectos o competencias internas."
+    },
+    {
+      "title": "RoboCup 2026: Un mapa de desafíos para la robótica universitaria",
+      "url": "https://2026.robocup.org/",
+      "summary": "La RoboCup 2026, una de las competencias de robótica más importantes del mundo, ya tiene su sitio web oficial. Reúne ligas de fútbol, rescate, robótica doméstica e industrial, y sus categorías pueden inspirar la organización de pruebas universitarias locales.",
+      "source": "RoboCup 2026",
+      "category": "competition",
+      "imageUrl": "https://2026.robocup.org/wp-content/uploads/2026/01/Team.jpeg",
+      "publishedAt": "2026-11-09T22:33:22.594Z",
+      "score": 50,
+      "selectionReason": "Competencia internacional de alto perfil que ofrece múltiples categorías, útil para inspirar la organización de ligas locales o la participación futura."
+    },
+    {
+      "title": "StrataSLAM: SLAM open-source para navegación robótica en edificios",
+      "url": "https://discourse.openrobotics.org/t/strataslam-open-source-multi-floor-slam-for-ros-2-stairs-elevators-ramps-identical-floors/59649",
+      "summary": "El material de Open Robotics Discourse cubre una herramienta o discusión técnica que puede orientar decisiones de implementación en proyectos de AIR. Conviene revisarlo buscando ideas aplicables a ROS, simulación, integración o depuración.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "publishedAt": "2026-11-09T08:43:47.000Z",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/d/a/da2da2c07b7dcc0e7bd909a8d29b14b40baa3ad5_2_1024x576.jpeg",
+      "score": 48,
+      "selectionReason": "Herramienta de SLAM open-source para ROS 2 que resuelve un problema práctico en navegación robótica (múltiples pisos), directamente aplicable a proyectos del club."
+    },
+    {
+      "title": "Concurso de videos de robótica TC-PEBRAS: Ganen $250 con un video de 3 minutos",
+      "url": "https://discourse.openrobotics.org/t/tc-pebras-is-hosting-a-video-competition-250-awards-3-min-videos-due-dec-12-2026/59667",
+      "summary": "El Comité Técnico de Evaluación y Benchmarking de Sistemas Robóticos y de Automatización (TC-PEBRAS) de IEEE RAS organiza un concurso de videos. Pueden ganar 250 dólares presentando un video de hasta 3 minutos sobre sus proyectos. La fecha límite es el 12 de diciembre de 2026.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/d/3/d38b4df2870805296f35236dea26b6f044599095_2_690x467.jpeg",
+      "publishedAt": "2026-11-09T20:25:26.000Z",
+      "score": 34,
+      "selectionReason": "Concurso de video con premio en efectivo y fecha límite clara, una oportunidad accesible para que los estudiantes muestren sus proyectos de robótica."
+    },
+    {
+      "title": "Natura-1: Un modelo de IA gigante para manos robóticas diestras",
+      "url": "https://roboticsandautomationnews.com/2026/11/09/nature-will-launches-50-billion-parameter-ai-model-for-dexterous-robot-hands/106855/",
+      "summary": "La noticia aporta contexto de robótica aplicada para discusiones técnicas del club. Conviene leerla buscando ideas trasladables a prototipos, reglas de competencia o demostraciones para estudiantes.",
+      "source": "Robotics & Automation News",
+      "category": "industry",
+      "publishedAt": "2026-11-09T19:39:03.000Z",
+      "imageUrl": "https://roboticsandautomationnews.com/wp-content/uploads/2026/11/nature-will-1.png",
+      "score": 30,
+      "selectionReason": "Noticia de investigación sobre un modelo de IA masivo para manipulación robótica, relevante para entender el estado del arte en control de manos robóticas y la aplicación de IA en robótica física."
+    },
+    {
+      "title": "Corebrum OS: Un Linux optimizado para ROS 2 y desarrollo de IA en robótica",
+      "url": "https://discourse.openrobotics.org/t/corebrum-os-a-linux-desktop-for-ros-2-ai-agents-and-physical-ai/59657",
+      "summary": "Se lanzó Corebrum OS, una distribución de Linux diseñada específicamente como entorno de escritorio para trabajar con ROS 2, agentes de IA y robótica física. Esta herramienta puede simplificar la configuración de sus estaciones de trabajo para proyectos avanzados.",
+      "source": "Open Robotics Discourse",
+      "category": "tooling",
+      "imageUrl": "https://emoji.discourse-cdn.com/noto/robot.png?v=16",
+      "publishedAt": "2026-11-09T15:22:01.000Z",
+      "score": 22,
+      "selectionReason": "Nueva distribución de Linux optimizada para ROS 2 y desarrollo de IA en robótica, una herramienta práctica para la configuración de entornos de trabajo en el club."
+    }
+  ]
+}
